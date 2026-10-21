@@ -24,7 +24,7 @@
     "@types/react": "^18.3.31",
     "@types/react-dom": "^18.3.7",
     "@types/webpack-env": "^1.18.1",
-    "@vercel/analytics": "^1.6.1",
+    "@vercel/analytics": "^2.0.1",
     "clsx": "^2.1.0",
     "fast-glob": "^3.3.3",
     "feed": "^4.2.2",
