@@ -34,7 +34,7 @@ On `/rsvp`, **any 6-character code** using the invitation alphabet (`2â€“9`, `Aâ
 
 ### Prerequisites
 
-- Node.js 18.x or later
+- Node.js 22.23.4 (see `.nvmrc`). The October 21, 2026 Node.js security release does not patch the 18.x or 20.x lines.
 - npm or yarn
 
 ### Installation
